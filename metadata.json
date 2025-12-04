@@ -1,0 +1,8 @@
+{
+  "name": "Waste Connect",
+  "description": "A smart waste management platform featuring AI-powered waste detection, collection scheduling, and a renewable materials marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
